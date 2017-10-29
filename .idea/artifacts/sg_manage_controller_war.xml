@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sg-manage-controller:war">
+    <output-path>$PROJECT_DIR$/sg-manage/sg-manage-controller/target</output-path>
+    <root id="archive" name="sg-manage-controller-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sg-manage-controller:war exploded" />
+    </root>
+  </artifact>
+</component>
